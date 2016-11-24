@@ -9,4 +9,4 @@ Future functionalities would be:
 * Mixed type of dice roll functionalituy
 * Confronted roll between 2 kind of throws.
 
-![My image](ahuertam.github.com/SmallUtilities/DiceMaster v1.0/Captura.PNG )
+![](https://github.com/ahuertam/SmallUtilities/blob/master/DiceMaster%20v1.0/Captura.PNG?raw=true)
