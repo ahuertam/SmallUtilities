@@ -1,0 +1,35 @@
+/* Css para app de DiceMaster ahuertam@yahoo.es  */
+header{
+	background: black;
+	color: white;
+	text-align: center;
+	font-size: 50;
+	font-family: "Helvetia", "verdant";
+	border-style: solid;
+
+}
+
+body{
+	background: black;
+	color: white;
+	text-align: center;
+}
+h1,h2,h3
+{
+	color:white;
+	font.font-weight: normal;
+	font-family: Arial,Helvetica,sans-serif;
+}
+h1{	font-size: 2em;}
+h2 {font-size: 1.5em;}
+h3 {font-size: 1.2em;}
+.result{
+	padding:1;
+	font-family: impact,Comic Sans MS;
+	font-size: 4em;
+	 margin-top: 0,01em;
+
+}
+p {font-size: 1.7em;}
+
+p span { color: red;}

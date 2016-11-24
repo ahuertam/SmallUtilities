@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+	<html lang="es">
+	<head>
+		<meta charset="utf-8">
+		<title>Calculadora de dados </title>
+		 <link rel="stylesheet" type="text/css" href="dice.css">
+	</head>
+
+	<header>
+		<h1>Calculadora de Dados Universal</h1>
+	</header><!-- /header -->
+	
+	<body>
+			<p></p>
+		<script src="dado.js"></script>
+
+			<label for="cantidadDados">Nº Dados:  </label>
+			<input type="text" value"" id="numDados" placeholder="Nº Dados"/>
+
+			<label for="caras">Nº Caras </label>
+			<input type="text" value"" id="caras" placeholder="Nº caras"/>
+			<!--  <input type=text name=answer id="resultado" placeholder="Resultado"> -->
+		<button  id="roll" onclick="boton()" >Tira el Dado</button>
+		<p >Resultado de la tirada</p>
+		<p class ="result" id="resultado">0</p>
+
+	</body>
+
+	<footer>
+		<p>Versión 1.0 2016  <a href="mailto:ahuertam@yahoo.es">Alejandro Huerta</a></p>
+	</footer>
+</html>
