@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Master';
-  content = 'Yep';
+  title = 'RollIniciative v0.1';
+  content = 'You can manage PCs and Npcs order of play by throwing a Dice';
 }

@@ -10,8 +10,6 @@
 </li>
 
 <h4> Order list </h4>
-<ul>
-    <li *ngFor="let player of orderedPlayers ; let i = index">
+    <li class= "result" *ngFor="let player of orderedPlayers ; let i = index">
         {{ i+1 }}) {{ player.name }} {{ player.rolled }}
     </li>
-</ul>
